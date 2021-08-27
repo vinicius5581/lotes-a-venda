@@ -1,0 +1,24 @@
+/* *{
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  height: 50px;
+  background: grey;
+}
+
+main {
+  flex-grow: 1;
+  overflow-y: scroll;
+}
+
+footer {
+  height: 100px;
+  background: grey;
+} */
